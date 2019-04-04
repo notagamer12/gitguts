@@ -4,4 +4,6 @@
 #fkdklajdkasdbnfbfvd 
 #Opis rozszerzony
 #hgkvlfdhnblngfng 
-#licencja
+#licencja 
+vnckxnvlbnx
+MIT
