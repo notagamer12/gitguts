@@ -1,4 +1,6 @@
 #Moje pierwsze repozytorium 
 
 #fbdsjkafdgf
-#fkdklajdkasdbnfbfvd
+#fkdklajdkasdbnfbfvd 
+#Opis rozszerzony
+#hgkvlfdhnblngfng
