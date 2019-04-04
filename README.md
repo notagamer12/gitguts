@@ -7,4 +7,5 @@
 #hgkvlfdhnblngfng 
 #licencja 
 vnckxnvlbnx
-MIT
+MIT 
+##cokolwiek
