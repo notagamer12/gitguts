@@ -5,4 +5,6 @@
 #Autorzy
 #Opis rozszerzony
 #hgkvlfdhnblngfng 
-#licencja
+#licencja 
+vnckxnvlbnx
+MIT
