@@ -1,1 +1,4 @@
-#Moje pierwsze repozytorium
+#Moje pierwsze repozytorium 
+
+#fbdsjkafdgf
+#fkdklajdkasdbnfbfvd
