@@ -3,4 +3,5 @@
 #fbdsjkafdgf
 #fkdklajdkasdbnfbfvd 
 #Opis rozszerzony
-#hgkvlfdhnblngfng
+#hgkvlfdhnblngfng 
+#licencja
